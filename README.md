@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=556B2F&center=true&vCenter=true&width=1580&lines=WORLD+WAR+3+HACK+2026;ESP+•+AIMBOT+•+WALLHACK;DOMINATE+THE+BATTLEFIELD" alt="World War 3 Hack 2026" />
-</div>
+
 
 <br/>
 
